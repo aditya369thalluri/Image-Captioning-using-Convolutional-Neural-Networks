@@ -1,0 +1,2 @@
+- HTML file consists of code and their outputs
+- Notebook contains the actual code
